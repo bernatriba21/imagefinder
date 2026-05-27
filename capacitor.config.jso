@@ -1,0 +1,6 @@
+{
+  "appId": "com.bernatriba21.imagefinder",
+  "appName": "ImageFinder",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
