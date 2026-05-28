@@ -1,0 +1,7 @@
+{
+    "name": "imagefinder",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
